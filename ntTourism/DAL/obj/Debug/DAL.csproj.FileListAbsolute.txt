@@ -1,0 +1,7 @@
+F:\ntTourism4.0\ntTourism\DAL\bin\Debug\DAL.dll
+F:\ntTourism4.0\ntTourism\DAL\bin\Debug\DAL.pdb
+F:\ntTourism4.0\ntTourism\DAL\bin\Debug\Model.dll
+F:\ntTourism4.0\ntTourism\DAL\bin\Debug\Model.pdb
+F:\ntTourism4.0\ntTourism\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\ntTourism4.0\ntTourism\DAL\obj\Debug\DAL.dll
+F:\ntTourism4.0\ntTourism\DAL\obj\Debug\DAL.pdb

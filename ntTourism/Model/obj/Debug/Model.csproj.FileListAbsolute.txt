@@ -1,0 +1,4 @@
+F:\ntTourism4.0\ntTourism\Model\bin\Debug\Model.dll
+F:\ntTourism4.0\ntTourism\Model\bin\Debug\Model.pdb
+F:\ntTourism4.0\ntTourism\Model\obj\Debug\Model.dll
+F:\ntTourism4.0\ntTourism\Model\obj\Debug\Model.pdb
